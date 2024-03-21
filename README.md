@@ -7,7 +7,7 @@ This project aims to predict the compressive strength of concrete using a regres
 The provided code performs the following tasks:
 
 - Imports necessary libraries including pandas, numpy, TensorFlow, and scikit-learn.
-- Reads a CSV file containing concrete data (parameters: Cement,Blast Furnace Slag,Fly Ash,Water,Superplasticizer,Coarse Aggregate,Fine Aggregate,Age,Strength) and preprocesses it.
+- Reads a CSV file containing concrete data (parameters: Cement,Blast Furnace Slag,Fly Ash,Water,Superplasticizer,Coarse Aggregate,Fine Aggregate,Age,Strength) and preprocesses/cleans it.
 - Defines a regression model using TensorFlow's Keras API.
 - Splits the data into training and testing sets.
 - Trains the regression model using the training data.
