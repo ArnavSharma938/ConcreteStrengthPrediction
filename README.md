@@ -50,3 +50,7 @@ The provided code performs the following tasks:
 ## Results
 
 The script outputs the mean squared error (MSE) and the standard deviation of MSE calculated from multiple iterations of training and testing the model.
+
+## Licensing
+
+This project is licensed under the BSD 2-Clause License License. See the LICENSE file for details.
